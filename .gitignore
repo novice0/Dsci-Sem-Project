@@ -1,2 +1,5 @@
-models/
-.ipynb_checkpoints/
+# Ignoring the RNN model on git
+models/*
+
+# Ignoring the checkpoints folder
+.ipynb_checkpoints/*
