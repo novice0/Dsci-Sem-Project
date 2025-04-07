@@ -1,2 +1,5 @@
+# Ignore heavy models
+models/random_forest_emissions.pkl
+
 # Ignoring the checkpoints folder
 .ipynb_checkpoints/*
